@@ -33,7 +33,6 @@ const AboutScreen = () => {
                         </ListItem>
                     );
                 })}
-                
             </Card>
         </ScrollView>
     )
